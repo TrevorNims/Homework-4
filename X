@@ -1,3 +1,5 @@
 docstrings added!
 
 subfunction simplified!
+Ready for release!
+
