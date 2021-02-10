@@ -1,1 +1,3 @@
 docstrings added!
+
+subfunction simplified!
